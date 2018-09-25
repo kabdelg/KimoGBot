@@ -10,12 +10,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "botbuilder": "^3.13.1",
+    "botbuilder": "^3.15.0",
     "botbuilder-azure": "^3.0.4",
     "restify": "^5.0.0"
   },
   "devDependencies": {
     "request": "^2.81.0",
     "zip-folder": "^1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabdelg/KimoGBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kabdelg/KimoGBot/issues"
+  },
+  "homepage": "https://github.com/kabdelg/KimoGBot#readme"
 }
